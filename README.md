@@ -2,7 +2,7 @@
 
 ## Link
 
-- Live Site URL: [https://harshita1225.github.io/nature-tours/](https://harshita1225.github.io/nature-tours/)
+- Live Site URL: [https://harshita1225.github.io/tattoo-artist-portfolio/](https://harshita1225.github.io/tattoo-artist-portfolio/)
 
 ### The challenge
 
